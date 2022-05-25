@@ -1,8 +1,8 @@
 #  Persone
 
 Le persone coinvolte in questo progetto sono: 
-- Omar Adil ()
-- Gioele Caiti ()
+- Omar Adil (https://github.com/Ommi03)
+- Gioele Caiti (https://github.com/GioeleCaiti)
 - Riccardo Ventrici (https://github.com/v3ntri)
 
 # Descrizione 
